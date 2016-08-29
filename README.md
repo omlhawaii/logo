@@ -1,0 +1,1 @@
+![Current logo](source.svg)
